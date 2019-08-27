@@ -1,6 +1,6 @@
 # Markdown
 
-This is just a summery for you wanna learn about markdown and make it pretty
+This is just a cheat sheet for you wanna learn about markdown and make it pretty
 
 ## Summery
 - [Heading](#heading)
@@ -10,7 +10,7 @@ This is just a summery for you wanna learn about markdown and make it pretty
 - [Image](#image)
 - [Comment and Quote](#comment-and-quote)
 
-<br>
+---
 
 ### **Heading**
 
@@ -31,7 +31,7 @@ render to :
 > ##### h5
 > ###### h6
 
-<br>
+---
 
 ### **Text**
 ```
@@ -47,7 +47,7 @@ render to :
 >__another bold__
 >_another italic_
 
-</br>
+---
 
 ### **List**
 ```
@@ -69,7 +69,7 @@ render to :
 >2. two
 >3. three
 
-<br>
+---
 
 ### **Link**
 ```
@@ -79,7 +79,7 @@ render to :
 
 > [google](https://www.google.com)
 
-<br>
+---
 
 ### **Image**
 ```
@@ -89,7 +89,7 @@ render to :
 
 ![joker](joker.png)
 
-<br>
+---
 
 ### **Comment and Quote**
 ````
